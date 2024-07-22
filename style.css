@@ -13,6 +13,13 @@ body {
         font-family: Baskerville!important;
       }
 
+h1 {
+
+}
+
+h2{
+  font-family: Helvetica!important;
+}
 
 html {
   scroll-behavior: smooth;
@@ -216,8 +223,8 @@ a{
   }
 
   .youtube-container{
-    width:90vw;
-    height:calc(90vw * 315/560);
+    width:100%!important;
+    height:auto!important;
   }
 
 
